@@ -1,0 +1,15 @@
+{
+  "name": "hexo-site",
+  "version": "3.0.0-rc.2",
+  "private": true,
+  "dependencies": {
+    "hexo-generator-archive": "*",
+    "hexo-generator-category": "*",
+    "hexo-generator-index": "*",
+    "hexo-generator-tag": "*",
+    "hexo-renderer-ejs": "*",
+    "hexo-renderer-stylus": "^0.2.0",
+    "hexo-renderer-marked": "^0.2.0",
+    "hexo-server": "*"
+  }
+}
